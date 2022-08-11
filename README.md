@@ -1,4 +1,4 @@
-![](https://github.com/Gowtham-05/Gowtham-05/blob/main/quote2.jpg)
+![](src=https://github.com/Gowtham-05/Gowtham-05/blob/main/quote2.jpg)
 <h1 align="center">Hi 👋, I'm Gowtham R</h1>
 <h3 align="center">A passionate about IT Technology from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/gowthamr_0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gowthamr_0205" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gowtham-rajendran05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham-rajendran05" height="30" width="40" /></a>
 <a href="https://instagram.com/_gowtham_dhanush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gowtham_dhanush" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vetti advisor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vetti advisor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Vetti Advisor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vetti Advisor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
