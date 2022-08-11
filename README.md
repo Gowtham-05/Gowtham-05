@@ -20,7 +20,7 @@
 <a href="https://twitter.com/gowthamr_0205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gowthamr_0205" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gowtham-rajendran05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtham-rajendran05" height="30" width="40" /></a>
 <a href="https://instagram.com/_gowtham_dhanush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gowtham_dhanush" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Vetti Advisor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Vetti Advisor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/VettiAdvisor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VettiAdvisor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
